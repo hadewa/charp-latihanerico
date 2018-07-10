@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/bin/Debug/netcoreapp2.1/Latihan3.deps.json
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/bin/Debug/netcoreapp2.1/Latihan3.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/bin/Debug/netcoreapp2.1/Latihan3.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/bin/Debug/netcoreapp2.1/Latihan3.dll
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/bin/Debug/netcoreapp2.1/Latihan3.pdb
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.dll
+/home/hadewa/Documents/Programming/C#/Bab4/Latihan/Latihan3/obj/Debug/netcoreapp2.1/Latihan3.pdb
