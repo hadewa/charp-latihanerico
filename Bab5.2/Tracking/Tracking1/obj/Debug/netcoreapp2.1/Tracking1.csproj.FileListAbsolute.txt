@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/bin/Debug/netcoreapp2.1/Tracking1.deps.json
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/bin/Debug/netcoreapp2.1/Tracking1.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/bin/Debug/netcoreapp2.1/Tracking1.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/bin/Debug/netcoreapp2.1/Tracking1.dll
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/bin/Debug/netcoreapp2.1/Tracking1.pdb
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.dll
+/home/hadewa/Documents/Programming/C#/Bab5/Tracking/Tracking1/obj/Debug/netcoreapp2.1/Tracking1.pdb
