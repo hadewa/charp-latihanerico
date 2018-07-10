@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/bin/Debug/netcoreapp2.1/EvaluasiNo5.deps.json
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/bin/Debug/netcoreapp2.1/EvaluasiNo5.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/bin/Debug/netcoreapp2.1/EvaluasiNo5.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/bin/Debug/netcoreapp2.1/EvaluasiNo5.dll
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/bin/Debug/netcoreapp2.1/EvaluasiNo5.pdb
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.dll
+/home/hadewa/Documents/Programming/C#/Bab3/Evaluasi/EvaluasiNo5/obj/Debug/netcoreapp2.1/EvaluasiNo5.pdb
