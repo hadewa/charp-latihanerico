@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/bin/Debug/netcoreapp2.1/C#.deps.json
+/home/hadewa/Documents/Programming/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/bin/Debug/netcoreapp2.1/C#.dll
+/home/hadewa/Documents/Programming/C#/bin/Debug/netcoreapp2.1/C#.pdb
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.dll
+/home/hadewa/Documents/Programming/C#/obj/Debug/netcoreapp2.1/C#.pdb

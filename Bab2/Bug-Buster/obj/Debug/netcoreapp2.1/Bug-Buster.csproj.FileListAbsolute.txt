@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/bin/Debug/netcoreapp2.1/Bug-Buster.deps.json
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/bin/Debug/netcoreapp2.1/Bug-Buster.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/bin/Debug/netcoreapp2.1/Bug-Buster.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/bin/Debug/netcoreapp2.1/Bug-Buster.dll
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/bin/Debug/netcoreapp2.1/Bug-Buster.pdb
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.dll
+/home/hadewa/Documents/Programming/C#/Bab2/Bug-Buster/obj/Debug/netcoreapp2.1/Bug-Buster.pdb

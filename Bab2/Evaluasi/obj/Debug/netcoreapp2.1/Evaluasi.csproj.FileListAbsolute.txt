@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/bin/Debug/netcoreapp2.1/Evaluasi.deps.json
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/bin/Debug/netcoreapp2.1/Evaluasi.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/bin/Debug/netcoreapp2.1/Evaluasi.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/bin/Debug/netcoreapp2.1/Evaluasi.dll
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/bin/Debug/netcoreapp2.1/Evaluasi.pdb
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.dll
+/home/hadewa/Documents/Programming/C#/Bab2/Evaluasi/obj/Debug/netcoreapp2.1/Evaluasi.pdb
