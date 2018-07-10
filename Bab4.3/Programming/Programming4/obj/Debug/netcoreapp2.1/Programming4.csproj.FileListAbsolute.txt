@@ -1,0 +1,11 @@
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/bin/Debug/netcoreapp2.1/Programming4.deps.json
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/bin/Debug/netcoreapp2.1/Programming4.runtimeconfig.json
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/bin/Debug/netcoreapp2.1/Programming4.runtimeconfig.dev.json
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/bin/Debug/netcoreapp2.1/Programming4.dll
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/bin/Debug/netcoreapp2.1/Programming4.pdb
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.csprojAssemblyReference.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.csproj.CoreCompileInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.AssemblyInfoInputs.cache
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.AssemblyInfo.cs
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.dll
+/home/hadewa/Documents/Programming/C#/Bab4/Programming/Programming4/obj/Debug/netcoreapp2.1/Programming4.pdb
